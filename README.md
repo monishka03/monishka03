@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monishka03
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning
+- 👀 I’m interested in learning new skills
+- 🌱 I’m currently learning web development
 
 
 <!---
